@@ -1,6 +1,6 @@
 -  Hi, I’m Ayurdekate
 -  I’m interested in Programming
--  I’m currently learning Python
+-  I’m currently learning flutter
 -  Reach me on Instagram-@ayur.dekate
                  twitter-@ayur.dekate
 <!---
